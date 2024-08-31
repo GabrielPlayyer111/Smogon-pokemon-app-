@@ -1,0 +1,7 @@
+{
+  "name": "Smogon ",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
